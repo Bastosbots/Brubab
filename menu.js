@@ -1,5 +1,5 @@
 const help = (p, date, user, wame) => {
-return `*☾ 𝔸𝕃𝕀ℂ𝔼 ☽*
+return ` *☾ 𝔸𝕃𝕀ℂ𝔼 ☽*
 ║                                                           
 ║ *🕐 DATA: ${date}*
 ║
